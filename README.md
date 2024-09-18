@@ -8,3 +8,7 @@
 <h3>Responsive Tasarım</h3>
 
 <h3>Hareketli Video</h3>
+
+
+Uploading Netflixödev (online-video-cutter.com).mp4…
+
