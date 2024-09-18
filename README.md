@@ -10,5 +10,8 @@
 <h3>Hareketli Video</h3>
 
 
-Uploading Netflixödev (online-video-cutter.com).mp4…
+
+
+
+https://github.com/user-attachments/assets/da9ecb2a-6122-49de-82ea-47e986dac07c
 
