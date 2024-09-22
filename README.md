@@ -13,5 +13,6 @@
 
 
 
-https://github.com/user-attachments/assets/da9ecb2a-6122-49de-82ea-47e986dac07c
+
+![Netflix-clone](https://github.com/user-attachments/assets/601984ae-1949-4415-a4ea-00fabddc56e5)
 
